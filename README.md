@@ -9,8 +9,8 @@ Snipe any roblox player with only their username.
 
 # changelog
 
-0.1-extension has been codded and uploaded to gb <br
-0.3-changed the user interface (ui) with css and added a neon bar at the top of the site ;p
+# 0.1-extension has been codded and uploaded to gb
+# 0.3-changed the user interface (ui) with css and added a neon bar at the top of the site ;p
 
 
 
