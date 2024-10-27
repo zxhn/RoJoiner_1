@@ -17,7 +17,9 @@ Snipe any roblox player with only their username.
 # Developer
 Coded by tyskiee
 
+
+
 # Contact
-discord-tyskiee
+discord-tyskiee or thru server: https://discord.gg/7tEetYVD
 
 
